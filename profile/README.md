@@ -53,23 +53,6 @@
 
 </div>
 
-## 📦 This Organization
-
-クライアントワークで繰り返し使う仕組みを、**再利用可能なテンプレート**として整備しています。
-公開できるものから、ここに置いていきます。
-
-| Repository | 概要 |
-| --- | --- |
-| [**dify-chatbot-starter**](https://github.com/lantern-inc-jp/dify-chatbot-starter) | Dify + Next.js のチャットボット構築スターター。クライアント案件のPoCを最短距離で立ち上げるためのテンプレート |
-
-<p>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React">
-  <img src="https://img.shields.io/badge/Dify-1C64F2?style=flat-square" alt="Dify">
-  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel">
-</p>
-
 ## 🙌 Join Us
 
 LANTERN では、**実践型・長期の学生インターン** を通年で募集しています。
@@ -89,12 +72,14 @@ LANTERN では、**実践型・長期の学生インターン** を通年で募�
 
 ## 📮 Contact
 
+<div align="center">
 | | |
 | --- | --- |
 | 🌐 **Website** | [lantern-inc.jp](https://lantern-inc.jp/) |
 | ✉️ **Mail** | [info@lantern-inc.jp](mailto:info@lantern-inc.jp) |
 | ☎️ **Tel** | 050-8892-6129 |
 | 📍 **Office** | 〒060-0908 北海道札幌市東区北8条東4丁目1-20<br>サツドラホールディングス本社ビル2階 EZOHUB SAPPORO<br><sub>JR札幌駅 / 地下鉄東豊線 東区役所前駅 より徒歩11分</sub> |
+</div>
 
 <br>
 
