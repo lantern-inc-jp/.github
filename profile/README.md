@@ -73,12 +73,14 @@ LANTERN では、**実践型・長期の学生インターン** を通年で募�
 ## 📮 Contact
 
 <div align="center">
+
 | | |
 | --- | --- |
 | 🌐 **Website** | [lantern-inc.jp](https://lantern-inc.jp/) |
 | ✉️ **Mail** | [info@lantern-inc.jp](mailto:info@lantern-inc.jp) |
 | ☎️ **Tel** | 050-8892-6129 |
 | 📍 **Office** | 〒060-0908 北海道札幌市東区北8条東4丁目1-20<br>サツドラホールディングス本社ビル2階 EZOHUB SAPPORO<br><sub>JR札幌駅 / 地下鉄東豊線 東区役所前駅 より徒歩11分</sub> |
+
 </div>
 
 <br>
