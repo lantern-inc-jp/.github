@@ -67,7 +67,9 @@ LANTERN では、**実践型・長期の学生インターン** を通年で募�
 まずは話を聞いてみたい、くらいの温度感で大丈夫です。
 
 <p align="center">
-  <a href="https://lantern-inc.jp/"><strong>▶ カジュアル面談を申し込む</strong></a>
+  <a href="https://lantern-inc.jp/" style="font-size: 20px;">
+    <strong>▶ カジュアル面談を申し込む</strong>
+  </a>
 </p>
 
 ## 📮 Contact
