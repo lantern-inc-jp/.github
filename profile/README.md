@@ -43,11 +43,15 @@
 
 ## 🛠 What We Do
 
+<div align="center">
+
 | | 領域 | ソリューション |
 | :---: | --- | --- |
 | 🎨 | **Branding** | ブランド・アイデンティティ策定<br>Web・グラフィックデザイン |
 | 📈 | **Marketing** | EC構築・運用支援<br>デジタルマーケティング支援 |
 | 🤖 | **AI** | AI導入支援<br>DX人材育成研修支援 |
+
+</div>
 
 ## 📦 This Organization
 
